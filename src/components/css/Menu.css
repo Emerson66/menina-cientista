@@ -1,0 +1,22 @@
+.Logo {
+    max-width: 723.665px;
+    max-height: 90px;
+    
+}
+
+.Menu{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.Layout-box--welcome {
+  display: inline;
+  overflow:hidden;
+  text-align: center;  
+}
+
+.Botton__escuro{
+  background-color: #4D4D4D;
+}
+body{
+  background-image: url("../../assets/img/Background-Menu.png");
+}
